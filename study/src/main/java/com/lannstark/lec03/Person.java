@@ -1,6 +1,7 @@
 package com.lannstark.lec03;
 
-public class Person {
+public class
+Person {
 
   private final String name;
   private final int age;
