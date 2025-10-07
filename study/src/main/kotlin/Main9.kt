@@ -69,7 +69,7 @@ class Person4(
     }
 
     // 위를  아래와 같이 커스텀 getter로 구현 가능
-    val isAdult: Boolean
+    val isAdult1: Boolean
         get() = age >= 20
 
     // 즉, 함수로 만드는 방법, 프로퍼티로 만드는 방법 세가지가 존재(아래 포함)
